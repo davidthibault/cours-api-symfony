@@ -8,3 +8,6 @@ Code du cours sur les API avec Symfony
 3. Jouez les migrations : `php bin/console d:m:m`
 4. Jouez les fixtures : `php bin/console d:f:l --no-interaction`
 5. Lancez le server : `symfony serve` ou `php -S localhost:3000 -t public`
+
+
+> php bin/console make:controller ApiPostController
